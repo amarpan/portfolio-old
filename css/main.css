@@ -17,3 +17,8 @@ body {
 #wrap {
     text-align: center;
 }
+
+body li{
+    
+    overflow: hidden;
+}
