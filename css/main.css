@@ -1,7 +1,8 @@
 body {
-    border: magenta solid 5px;
+    border: crimson solid 5px;
     background-color:oldlace;
     text-align: center;
+    max-width: 960px;
 }
 
 #head {
