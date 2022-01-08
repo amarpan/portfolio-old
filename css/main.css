@@ -36,9 +36,9 @@ body li{
 }
 
 .right {
-    text-align: left;
+    text-align:start
 }
 
 .left {
-    text-align: right;
+    text-align:end
 }
