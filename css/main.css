@@ -34,3 +34,11 @@ body li{
     text-decoration: none;
     color: crimson;
 }
+
+.right {
+    text-align: left;
+}
+
+.left {
+    text-align: right;
+}
