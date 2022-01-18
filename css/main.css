@@ -42,3 +42,8 @@ body li{
 .left {
     text-align:end
 }
+
+.self {
+    width: 87px;
+    height: 150px;
+}
