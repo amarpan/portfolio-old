@@ -55,6 +55,14 @@ body li{
 .home {
     background-color: purple;
     color: oldlace;
+    width: 253px;
+    margin: auto;
+}
+
+nav {
+    width: 250px;
+    border: solid 1px purple;
+    margin: auto;
 }
 
 @media only screen and (max-width: 768px){
