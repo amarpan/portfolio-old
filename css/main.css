@@ -6,7 +6,7 @@ body {
 }
 
 #head {
-    color: crimson;
+    color: purple;
     border-top: black solid 2px;
     border-bottom: black solid 2px;
 }
@@ -32,7 +32,7 @@ body li{
 
 .nolink {
     text-decoration: none;
-    color: crimson;
+    color: purple;
 }
 
 .right {
@@ -63,6 +63,10 @@ nav {
     width: 250px;
     border: solid 1px purple;
     margin: auto;
+}
+
+.writingnav {
+    width: 500px;
 }
 
 @media only screen and (max-width: 768px){
