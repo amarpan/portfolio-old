@@ -55,18 +55,24 @@ body li{
 .home {
     background-color: purple;
     color: oldlace;
-    width: 253px;
+    width: 100%;
     margin: auto;
 }
 
 nav {
-    width: 250px;
-    border: solid 1px purple;
+    width: 100%;
+    /* border: solid 1px purple; */
     margin: auto;
 }
 
+/* #indiv {
+    border: solid .1px purple;
+    /* margin: auto;
+    padding: auto; */
+} */
+
 .writingnav {
-    /* width: 500px; */
+    width: 100%;
 }
 
 @media only screen and (max-width: 768px){
